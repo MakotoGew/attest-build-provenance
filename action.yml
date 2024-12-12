@@ -5,7 +5,7 @@ branding:
   color: 'blue'
   icon: 'lock'
 
-inputs:
+inputs: 
   subject-path:
     description: >
       Path to the artifact serving as the subject of the attestation. Must
