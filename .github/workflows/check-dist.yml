@@ -3,7 +3,7 @@
 # run. For this project, the `dist/index.js` file is transpiled from other
 # source files. This workflow ensures the `dist/` directory contains the
 # expected transpiled code.
-#
+# 
 # If this workflow is run from a feature branch, it will act as an additional CI
 # check and fail if the checked-in `dist/` directory does not match what is
 # expected from the build.
