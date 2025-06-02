@@ -7,3 +7,4 @@
   "include": ["../../__tests__/**/*", "../../src/**/*"],
   "exclude": ["../../dist", "../../node_modules", "../../coverage", "*.json"]
 }
+
